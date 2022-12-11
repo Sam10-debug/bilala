@@ -25,7 +25,7 @@ const Nav = () => {
 		</div>
 		<hr />
 		<nav className="mx-[12.5%]  w-1/2 py-6">
-			<ul className={` ${showNav?"flex":"hidden"} flex flex-col  absolute h-[200px] bg-white w-full left-0 top-[40px] md:flex-row justify-between`} data-aos="fade-down">
+			<ul className={` ${showNav?"flex":"hidden"} flex flex-col pl-4  absolute h-[200px] bg-white w-full left-0 top-[40px] md:flex-row justify-between`} data-aos="fade-down">
 				<li className=""><a href="#">HOME</a></li>
 				<li className=""><a href="#">ABOUT</a></li>
 				<li className=""><a href="#">SERVICES</a></li>
