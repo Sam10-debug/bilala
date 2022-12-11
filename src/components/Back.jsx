@@ -28,7 +28,7 @@ const Back = () => {
 			height:"50px",
 			width:"50px",
 			right:"50px",
-			fontSize:"50px",
+			fontSize:"20px",
 			backgroundColor:"#fc6020",
 			borderRadius:"50%",
 			display:"flex",
