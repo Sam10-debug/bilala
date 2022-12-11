@@ -3,11 +3,11 @@ import 'aos/dist/aos.css'
 import { useEffect } from 'react'
 
 const HeroSection = () => {
-	useEffect(()=>{
-		AOS.init({duration: 2000})
-	})
+	// useEffect(()=>{
+	// 	AOS.init({duration: 2000})
+	// })
   return (
-	<section className="md:h-[760px] relative flex md:py-20 bg-red-400 items-center  flex-col">
+	<section className="hero-section md:h-[760px] relative flex md:py-20 bg-red-400 items-center  flex-col">
 		<h1 className="text-[32px] md:text-[90px] text-center font-[400] text-white" data-aos="fade-down">A NEW WAY TO <br /> <span className="  font-bold text-[40px] md:text-[100px]">INVEST IN CRYPTOMINING</span></h1>
 		<p className=" text-[22px] leading-[33px] text-white w-4/5 py-[35px] text-center" data-aos="fade-up">It is super simple - Your mining equipment is already configured and running.
 		As soon as you have created your account, you can start investing and get profits!</p>

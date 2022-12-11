@@ -1,3 +1,4 @@
+import Back from "./components/Back";
 import Footer from "./components/Footer";
 import Hero from "./components/Hero";
 import HeroSection from "./components/HeroSection";
@@ -15,6 +16,7 @@ function App() {
       <Second />
       <Third />
       <Footer />
+      <Back />
     </div>
   );
 }

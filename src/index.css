@@ -33,6 +33,7 @@ hr{
 .about{
   color: #36444c
 }
+
 .btn{
   border-color: #fc6020;
     color: #fc6020;
@@ -74,5 +75,9 @@ header>div{
   footer ul{
     word-wrap: break-word;
   }
+ 
   
 }
+/* .hero-section{
+  overflow-x: hidden;
+} */
