@@ -1,0 +1,55 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+body{
+  font-family: 'Nunito', sans-serif;
+}
+
+.hero-btn{
+  background-color: #fdb818;
+  border: 1px solid #fdb818;
+}
+.first{
+  background-color: #fc6020;
+}
+.second{
+  background-color: #56c5e9;
+}
+.third{
+  background-color: #b5dd60
+}
+hr{
+  width: 40px;
+  padding: 10px;
+}
+.about{
+  color: #36444c
+}
+.btn{
+  border-color: #fc6020;
+    color: #fc6020;
+    background-color: transparent;
+}
+.btm{
+  border-color: #fc6020;
+    color: #fff;
+    background-color: #fc6020
+}
+footer{
+  border-top: 1px solid gray;
+}
+nav li:hover{
+  border-top: 3px solid #56c5e9;
+  transition: all ease-in-out 0.3s;
+}
+
+header hr{
+  width: 100%;
+  padding: 0;
+  background-color: gray;
+}
+header>div{
+  margin-bottom: 10px;
+}
