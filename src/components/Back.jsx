@@ -27,7 +27,7 @@ const Back = () => {
 			bottom:"50px",
 			height:"50px",
 			width:"50px",
-			right:"50px",
+			right:"10px",
 			fontSize:"20px",
 			backgroundColor:"#fc6020",
 			borderRadius:"50%",
