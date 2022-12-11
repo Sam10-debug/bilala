@@ -11,6 +11,12 @@ body{
   background-color: #fdb818;
   border: 1px solid #fdb818;
 }
+.hero-btn:hover{
+  background-color: #fff;
+  border-radius: 1px solid #fdb818;
+  color: #fdb818;
+  transition: all ease-in-out 1s;
+}
 .first{
   background-color: #fc6020;
 }
@@ -32,10 +38,19 @@ hr{
     color: #fc6020;
     background-color: transparent;
 }
+.btn:hover{
+  background-color: #fc6020;
+  color: #fff;
+}
 .btm{
   border-color: #fc6020;
-    color: #fff;
-    background-color: #fc6020
+  color: #fff;
+  background-color: #fc6020
+}
+.btm:hover{
+  border: 1px solid #fc6020;
+  background-color: #fff;
+  color: #fc6020;
 }
 footer{
   border-top: 1px solid gray;
@@ -44,7 +59,6 @@ nav li:hover{
   border-top: 3px solid #56c5e9;
   transition: all ease-in-out 0.3s;
 }
-
 header hr{
   width: 100%;
   padding: 0;
@@ -52,4 +66,13 @@ header hr{
 }
 header>div{
   margin-bottom: 10px;
+}
+@media screen and (max-width:768px){
+  nav li:hover{
+    border-top: 0px solid #56c5e9;
+  }
+  footer ul{
+    word-wrap: break-word;
+  }
+  
 }

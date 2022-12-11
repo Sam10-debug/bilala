@@ -7,7 +7,7 @@ const Footer = () => {
 			<p className="">Terms and Conditions | Privacy Policy | &copy;2020 investments. All rights reserved </p>
 			
 		</div>
-		<ul className="flex">
+		<ul className="flex text-[14px] md:text-[16px]">
 				<li className="mx-2"><a href="#">Home</a></li>
 				<li className="mx-2"><a href="#">About</a></li>
 				<li className="mx-2"><a href="#">Services</a></li>
