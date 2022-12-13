@@ -11,7 +11,7 @@ const HeroSection = () => {
 		<h1 className="text-[32px] md:text-[90px] text-center font-[400] text-white" data-aos="fade-down">A NEW WAY TO <br /> <span className="  font-bold text-[40px] md:text-[100px]">INVEST IN CRYPTOMINING</span></h1>
 		<p className=" text-[22px] leading-[33px] text-white w-4/5 py-[35px] text-center" data-aos="fade-up">It is super simple - Your mining equipment is already configured and running.
 		As soon as you have created your account, you can start investing and get profits!</p>
-		<div className="flex pb-6">
+		<div className="flex pb-6 px-2 md:px-0">
 		<button className=" text-white hero-btn px-8 py-4 mx-2">OPEN AN ACCOUNT</button>
 		<button className=" text-white hero-btn px-8 py-4 mx-2">OUR OFFERS</button>
 		</div>
@@ -19,7 +19,7 @@ const HeroSection = () => {
 			<div className="p-4 md:h-[350px] first bg-red-900" data-aos="fade-right">
 				<h2 className=" text-[25px] font-[300] leading-[30px]">Identity<br />  <span className=" font-bold leading-[33px] text-[28px]">WHO WE ARE</span></h2>
 				<p className="my-2">The story of a capitalfund.ltd began at the end of 2014. Our founders knew each other with the same platform to buy and sell Bitcoins. They were fascinated by the technology and wanted to build their own firm, just to get all their friends also wanted to participate.
-				</p>
+				</p>z
 				<p className="">They invented the idea of mining as a service and built the first mining farm. Since our foundation we have grown very and much, but one thing remains constant: We are all strong believers in the future of digital currencies, and we love to be part of this growing community.</p>
 				<hr />
 				<p className="">View More &gt;</p>
