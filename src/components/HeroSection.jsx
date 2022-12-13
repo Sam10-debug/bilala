@@ -21,15 +21,13 @@ const HeroSection = () => {
 				<p className="my-2">The story of a capitalfund.ltd began at the end of 2014. Our founders knew each other with the same platform to buy and sell Bitcoins. They were fascinated by the technology and wanted to build their own firm, just to get all their friends also wanted to participate.
 				</p>z
 				<p className="">They invented the idea of mining as a service and built the first mining farm. Since our foundation we have grown very and much, but one thing remains constant: We are all strong believers in the future of digital currencies, and we love to be part of this growing community.</p>
-				<hr />
-				<p className="">View More &gt;</p>
+		
 			</div>
 			<div className="p-4 md:h-[350px] second bg-red-900 " data-aos="fade-left">
 				<h2 className="text-[25px] font-[300] leading-[30px]">Vision & Mission <br />  <span className=" font-bold leading-[33px] text-[28px]">MAKE MINING ACCESSIBLE TO ALL</span></h2>
 				<p className="my-2">capitalfund.ltd is one of the world's leading providers in the world by offering cryptocurrency mining capacities in each area - for new arrivals, interested home miners and large investors. Our mission is to make acquiring cryptocurrencies easy and fast for everyone.</p>
 				<p className="">We offer a multi-algorithm service, a multi-coin cloud mining with the latest technology - without any pool fees. The ultimate goal of our existence is to make cryptocurrency mining an easy, smart and rewarding experience for all.</p>
-				<hr />
-				<p className="">View More &gt;</p>
+				
 			</div>
 			
 		</section>
