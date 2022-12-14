@@ -19,7 +19,7 @@ const HeroSection = () => {
 			<div className="p-4 md:h-[350px] first bg-red-900" data-aos="fade-right">
 				<h2 className=" text-[25px] font-[300] leading-[30px]">Identity<br />  <span className=" font-bold leading-[33px] text-[28px]">WHO WE ARE</span></h2>
 				<p className="my-2">The story of a capitalfund.ltd began at the end of 2014. Our founders knew each other with the same platform to buy and sell Bitcoins. They were fascinated by the technology and wanted to build their own firm, just to get all their friends also wanted to participate.
-				</p>z
+				</p>
 				<p className="">They invented the idea of mining as a service and built the first mining farm. Since our foundation we have grown very and much, but one thing remains constant: We are all strong believers in the future of digital currencies, and we love to be part of this growing community.</p>
 		
 			</div>

@@ -75,7 +75,9 @@ header>div{
   footer ul{
     word-wrap: break-word;
   }
- 
+ #root{
+   overflow-x: hidden;
+ }
   
 }
 /* .hero-section{
