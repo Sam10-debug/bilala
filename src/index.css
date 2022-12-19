@@ -39,7 +39,25 @@ hr{
     color: #fc6020;
     background-color: transparent;
 }
-.btn:hover{
+.sec-btn{
+  border-color: #b5dd60;
+    color: #b5dd60;
+    background-color: transparent;
+}
+.third-btn{
+  border-color: #56c5e9;
+    color: #56c5e9;
+    background-color: transparent;
+}
+.sec-btn:hover{
+    color: #fff;
+    background-color: #b5dd60;
+  }
+.third-btn:hover{
+    color: #fff;
+    background-color: #56c5e9;
+  }
+  .btn:hover{
   background-color: #fc6020;
   color: #fff;
 }
@@ -67,6 +85,9 @@ header hr{
 }
 header>div{
   margin-bottom: 10px;
+}
+.cap{
+  color: #36444c;
 }
 @media screen and (max-width:768px){
   nav li:hover{

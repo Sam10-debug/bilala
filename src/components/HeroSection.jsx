@@ -15,7 +15,7 @@ const HeroSection = () => {
 		<button className=" text-white hero-btn px-8 py-4 mx-2">OPEN AN ACCOUNT</button>
 		<button className=" text-white hero-btn px-8 py-4 mx-2">OUR OFFERS</button>
 		</div>
-		<section className=" md:absolute md:bottom-[-25%] text-white flex flex-col md:flex-row md:w-4/5 justify-between">
+		<section className=" md:absolute md:bottom-[-25%] text-white flex flex-col md:flex-row md:w-4/5 justify-betweenzz">
 			<div className="p-4 md:h-[350px] first bg-red-900" data-aos="fade-right">
 				<h2 className=" text-[25px] font-[300] leading-[30px]">Identity<br />  <span className=" font-bold leading-[33px] text-[28px]">WHO WE ARE</span></h2>
 				<p className="my-2">The story of a capitalfund.ltd began at the end of 2014. Our founders knew each other with the same platform to buy and sell Bitcoins. They were fascinated by the technology and wanted to build their own firm, just to get all their friends also wanted to participate.
