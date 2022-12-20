@@ -11,7 +11,7 @@ const Hero = () => {
 		<section className="pt-8 md:pt-56 flex flex-col justify-center items-center">
 		<button className="btn text-white hero-btn px-8 py-4 mx-2 mb-4 ">READ MORE</button>
 	</section>
-	<section className="bg-blue-600 md:h-[300px] py-2 px-2 md:px-0">
+	<section className="her md:h-[300px] py-2 px-2 md:px-0">
 		<h2 className="text-[22px] text-white text-center pl-8 md:pl-0 font-bold my-8">HOW DOES capitalfund.ltd MAKE BENEFITS</h2>
 		<section className=" flex flex-col md:flex-row justify-center  md:items-center  ">
 			<div className=" bg-white text-center py-6 px-0 md:px-2 md:h-[400px]  leading-10 shadow-lg " data-aos="fade-left">
