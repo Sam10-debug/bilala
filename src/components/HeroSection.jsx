@@ -13,8 +13,8 @@ const HeroSection = () => {
 			<p className=" text-[22px] leading-[33px] px-2 md:px-0 text-center md:w-[70%] mx-auto text-white  py-[35px]" data-aos="fade-up">It is super simple - Your mining equipment is already configured and running.
 			As soon as you have created your account, you can start investing and get profits!</p>
 			<div className="flex pb-6 px-2 justify-center md:px-0">
-			<button className=" text-white hero-btn px-8 py-4 mx-2">OPEN AN ACCOUNT</button>
-			<button className=" text-white hero-btn px-8 py-4 mx-2">OUR OFFERS</button>
+			<button className="  hero-btn px-8 py-4 mx-2">OPEN AN ACCOUNT</button>
+			<button className="  hero-btn px-8 py-4 mx-2">OUR OFFERS</button>
 			</div>
 		</section>
 		<section className=" md:relative md:bottom-[-5%] text-white flex flex-col md:flex-row md:w-4/5 justify-between">

@@ -8,14 +8,15 @@ body{
 }
 
 .hero-btn{
-  background-color: #56c5e9;
-  border: 1px solid #fff;
+  background-color: #fff;
+  border: 1px solid #56c5e9;
+  color: #56c5e9;
   
 }
 .hero-btn:hover{
-  background-color: #fff;
-  border-radius: 1px solid #fff;
-  color: #56c5e9;
+  background-color: #56c5e9;
+  border: 1px solid #fff;
+  color: #fff;
   transition: all ease-in-out 1s;
 }
 .first,.second{
@@ -34,8 +35,8 @@ hr{
 
 .btn{
   border-color: #56c5e9;
-    color: #56c5e9;
-    background-color: transparent;
+    color: #fff;
+    background-color: #56c5e9;
 }
 .her{
   background-color: #56c5e9;
@@ -45,35 +46,38 @@ hr{
 }
 .sec-btn{
   border-color: #56c5e9;
-    color: #56c5e9;
-    background-color: transparent;
+  color: #fff;
+  background-color: #56c5e9;
 }
 .third-btn{
   border-color: #56c5e9;
-    color: #56c5e9;
-    background-color: transparent;
+  color: #fff;
+  background-color: #56c5e9;
 }
 .sec-btn:hover{
-    color: #fff;
-    background-color: #56c5e9;
+    color: #56c5e9;
+    background-color: #fff;
+    border: 1px solid #56c5e9;
   }
 .third-btn:hover{
-    color: #fff;
-    background-color: #56c5e9;
+  color: #56c5e9;
+  background-color: #fff;
+  border: 1px solid #56c5e9;
   }
   .btn:hover{
-  background-color: #56c5e9;
-  color: #fff;
+    color: #56c5e9;
+    background-color: #fff;
+    border: 1px solid #56c5e9;
 }
 .btm{
   border-color: #fff;
-  color: #fff;
-  background-color: #56c5e9
+  color: #56c5e9;
+  background-color: #fff
 }
 .btm:hover{
   border: 1px solid #fff;
-  background-color: #fff;
-  color: #56c5e9;
+  background-color: #56c5e9;
+  color: #fff;
 }
 footer{
   border-top: 1px solid gray;
