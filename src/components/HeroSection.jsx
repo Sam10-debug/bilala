@@ -3,14 +3,14 @@ import 'aos/dist/aos.css'
 import { useEffect } from 'react'
 
 const HeroSection = () => {
-	// useEffect(()=>{
-	// 	AOS.init({duration: 2000})
-	// })
+	useEffect(()=>{
+		AOS.init({duration: 2000})
+	})
   return (
 	<section className="hero-section md:h-[730px] relative flex md:py-20 bg-red-400 items-center  flex-col">
 		<section className="">
-			<h1 className="text-[28px] md:text-[48px] text-center font-[400] text-white" data-aos="fade-down">A NEW WAY TO <br /> <span className="  font-bold text-[32px] md:text-[56px]">INVEST IN CRYPTOMINING</span></h1>
-			<p className=" text-[22px] leading-[33px] text-center md:w-[70%] mx-auto text-white  py-[35px]" data-aos="fade-up">It is super simple - Your mining equipment is already configured and running.
+			<h1 className="text-[28px] px-2 md:px-0 md:text-[48px] text-center font-[400] text-white" data-aos="fade-down">A NEW WAY TO <br /> <span className="  font-bold text-[32px] md:text-[56px]">INVEST IN CRYPTOMINING</span></h1>
+			<p className=" text-[22px] leading-[33px] px-2 md:px-0 text-center md:w-[70%] mx-auto text-white  py-[35px]" data-aos="fade-up">It is super simple - Your mining equipment is already configured and running.
 			As soon as you have created your account, you can start investing and get profits!</p>
 			<div className="flex pb-6 px-2 justify-center md:px-0">
 			<button className=" text-white hero-btn px-8 py-4 mx-2">OPEN AN ACCOUNT</button>
