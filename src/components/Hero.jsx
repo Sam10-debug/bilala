@@ -13,7 +13,7 @@ const Hero = () => {
 	</section>
 	<section className="bg-blue-600 md:h-[300px] py-2 px-2 md:px-0">
 		<h2 className="text-[22px] text-white text-center pl-8 md:pl-0 font-bold my-8">HOW DOES capitalfund.ltd MAKE BENEFITS</h2>
-		<section className=" flex flex-col md:flex-row justify-center md:absolute md:items-center  md:left-[25%]">
+		<section className=" flex flex-col md:flex-row justify-center  md:items-center  ">
 			<div className=" bg-white text-center py-6 px-0 md:px-2 md:h-[400px]  leading-10 shadow-lg " data-aos="fade-left">
 				<h4 className="text-[20px] font-semibold">20%</h4>
 				<h4 className="text-[30px] font-bold">AFTER 12 HOURS</h4>
