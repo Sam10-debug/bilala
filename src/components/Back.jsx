@@ -29,7 +29,7 @@ const Back = () => {
 			width:"50px",
 			right:"10px",
 			fontSize:"20px",
-			backgroundColor:"#fc6020",
+			backgroundColor:"darkBlue",
 			borderRadius:"50%",
 			display:"flex",
 			justifyContent:"center",

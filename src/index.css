@@ -9,18 +9,18 @@ body{
 
 .hero-btn{
   background-color: #fff;
-  border: 1px solid #56c5e9;
-  color: #56c5e9;
+  border: 1px solid darkblue;
+  color: darkblue;
   
 }
 .hero-btn:hover{
-  background-color: #56c5e9;
+  background-color: darkblue;
   border: 1px solid #fff;
   color: #fff;
   transition: all ease-in-out 1s;
 }
 .first,.second{
-  background-color: #fc6020;
+  background-color: darkblue;
 }
 .third{
   background-color: #b5dd60
@@ -34,56 +34,56 @@ hr{
 }
 
 .btn{
-  border-color: #56c5e9;
+  border-color: darkblue;
     color: #fff;
-    background-color: #56c5e9;
+    background-color: darkblue;
 }
 .her{
-  background-color: #56c5e9;
+  background-color: darkblue;
 }
 .become{
-  background-color: #56c5e9;
+  background-color: darkblue;
 }
 .sec-btn{
-  border-color: #56c5e9;
+  border-color: darkblue;
   color: #fff;
-  background-color: #56c5e9;
+  background-color: darkblue;
 }
 .third-btn{
-  border-color: #56c5e9;
+  border-color: darkblue;
   color: #fff;
-  background-color: #56c5e9;
+  background-color: darkblue;
 }
 .sec-btn:hover{
-    color: #56c5e9;
+    color: darkblue;
     background-color: #fff;
-    border: 1px solid #56c5e9;
+    border: 1px solid darkblue;
   }
 .third-btn:hover{
-  color: #56c5e9;
+  color: darkblue;
   background-color: #fff;
-  border: 1px solid #56c5e9;
+  border: 1px solid darkblue;
   }
   .btn:hover{
-    color: #56c5e9;
+    color: darkblue;
     background-color: #fff;
-    border: 1px solid #56c5e9;
+    border: 1px solid darkblue;
 }
 .btm{
   border-color: #fff;
-  color: #56c5e9;
+  color: darkblue;
   background-color: #fff
 }
 .btm:hover{
   border: 1px solid #fff;
-  background-color: #56c5e9;
+  background-color: darkblue;
   color: #fff;
 }
 footer{
   border-top: 1px solid gray;
 }
 nav li:hover{
-  border-top: 3px solid #56c5e9;
+  border-top: 3px solid darkblue;
   transition: all ease-in-out 0.3s;
 }
 header hr{
@@ -99,7 +99,7 @@ header>div{
 }
 @media screen and (max-width:768px){
   nav li:hover{
-    border-top: 0px solid #56c5e9;
+    border-top: 0px solid darkblue;
   }
   footer ul{
     word-wrap: break-word;
@@ -113,5 +113,5 @@ header>div{
   overflow-x: hidden;
 } */
 .hero-section{
-  background-color: #56c5e9;
+  background-color: darkblue;
 }
